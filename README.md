@@ -1,3 +1,7 @@
-Hi lads!  What's the good word? Today, We have, to a certain extent, a simple project.
-Primarily, we want to combine two tables from some important factors affecting S&P 500 index in the United States of America and then do some analysis regarding this matter.
-we imported our data from https://jkpfactors.com/ and https://ycharts.com/indicators/sp_500_monthly_return. So without further ado, let's dive into it.
+Analysis of Key Factors Affecting the S&P 500 Index
+In this project, I conducted an in-depth analysis of various economic factors influencing the S&P 500 index. The study involved:
+
+Data Collection & Preparation: Gathered financial data from reputable sources and processed it for analysis.
+Data Integration: Merged multiple datasets, aligning them based on date and ensuring consistency for accurate comparisons.
+Statistical Analysis: Measured the correlation between different macroeconomic indicators and S&P 500 returns to identify the most influential factors.
+Insights & Interpretation: Determined which factors had the strongest positive or negative impact on market movements.
